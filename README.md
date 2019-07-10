@@ -14,6 +14,8 @@
 
 ## 安装下载
 - 下载地址：https://github.com/luyao1991/fast-cache-test/releases
+- install:npm i fast-cache-test
+- 
 
 ## 快速使用
 简单的介入文档
