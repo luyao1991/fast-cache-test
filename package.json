@@ -1,6 +1,6 @@
 {
   "name": "fast-cache-test",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "测试建立前端开源项目",
   "main": "src/index.js",
   "scripts": {
