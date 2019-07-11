@@ -12,8 +12,11 @@
 ## 简介
 特色（test建立开源的前端项目）
 
+## 官网地址
+- 链接:https://luyao1991.github.io/
+
 ## 安装下载
-- 下载地址：https://github.com/luyao1991/fast-cache-test/releases
+- 下载地址:https://github.com/luyao1991/fast-cache-test/releases
 - install:npm i fast-cache-test
 - CDN:http://unpkg.com/fast-cache-test/release/bundle.js
 
@@ -23,4 +26,4 @@
 - [二次开发文档](doc/dev/README.md)
 
 ## 交流提问
-https://github.com/luyao1991/fast-cache-test/issues
+- 链接:https://github.com/luyao1991/fast-cache-test/issues
